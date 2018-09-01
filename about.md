@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Georgina Garza is currently a junior Computer Science and Dance (Honors) double major at UT Austin.
+Find out more about her on her [Personal Website](http://www.georginagarza.com/).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This is a blog that will be updated weekly for UT Austin's CS 373 course, Software Engineering, for the Fall 2018 semester.
